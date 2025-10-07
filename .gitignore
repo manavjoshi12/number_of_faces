@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Virtual environments
+dlib_env/
+*.egg-info/
+installed-base.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+*.jpeg
